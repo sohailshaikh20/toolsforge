@@ -1,0 +1,9 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: #fff; color: #1a1a1a;
+  -webkit-font-smoothing: antialiased;
+}
+textarea:focus, input:focus, button:focus { outline: none; }
+button { font-family: inherit; }
+::selection { background: #E8593C; color: #fff; }
